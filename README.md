@@ -37,17 +37,21 @@ I enjoy creating clean, responsive web experiences and uncovering insights from 
 
 ### 📊 GitHub Stats
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josh6335&show_icons=true&theme=tokyonight" alt="Joshua's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josh6335&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=Josh6335&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josh6335&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josh6335&bg_color=1a1b27&color=70A5FD&line=38BDAE&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josh6335&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
+</p>
+
 
 ---
 
