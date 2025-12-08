@@ -38,13 +38,12 @@ I enjoy creating clean, responsive web experiences and uncovering insights from 
 ### 📊 GitHub Stats
 
 
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josh6335&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josh6335&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josh6335&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josh6335&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
