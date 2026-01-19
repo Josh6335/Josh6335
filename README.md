@@ -35,7 +35,7 @@ I enjoy creating clean, responsive web experiences and uncovering insights from 
 
 ---
 
-### 📊 GitHub Stats
+
 
 <!-- <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Josh6335&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
